@@ -25,4 +25,16 @@ class BlogController extends Controller
     public function ourservice() {
         return view('ourservice');
     }
+
+    public function carakerja() {
+        return view('carakerja');
+    }
+
+    public function contact() {
+        return view('contact');
+    }
+
+    public function faq() {
+        return view('faq');
+    }
 }

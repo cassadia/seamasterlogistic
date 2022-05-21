@@ -33,3 +33,6 @@ Route::get('/blog', 'BlogController@home');
 Route::get('/blog/tentang', 'BlogController@tentang');
 Route::get('/blog/kontak', 'BlogController@kontak');
 Route::get('/blog/ourservice', 'BlogController@ourservice');
+Route::get('/carakerja', 'BlogController@carakerja');
+Route::get('/contact', 'BlogController@contact');
+Route::get('/faq', 'BlogController@faq');

@@ -241,9 +241,9 @@
 										<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
 											<ul id="menu-1-1a6ec2a4" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-607 current_page_item menu-item-703"><a href="/blog" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
 												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="/blog/ourservice" class="elementor-item">Our Service</a></li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="cara-kerja/index.html" class="elementor-item">Cara Kerja</a></li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="contact/index.html" class="elementor-item">Contact</a></li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699"><a href="faq/index.html" class="elementor-item">FAQ</a></li>
+												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="/carakerja" class="elementor-item">Cara Kerja</a></li>
+												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="/contact" class="elementor-item">Contact</a></li>
+												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699"><a href="/faq" class="elementor-item">FAQ</a></li>
 											</ul>
 										</nav>
 										<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -253,9 +253,9 @@
 										<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 											<ul id="menu-2-1a6ec2a4" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-607 current_page_item menu-item-703"><a href="/blog" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
 												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="/blog/ourservice" class="elementor-item" tabindex="-1">Our Service</a></li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="cara-kerja/index.html" class="elementor-item" tabindex="-1">Cara Kerja</a></li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="contact/index.html" class="elementor-item" tabindex="-1">Contact</a></li>
-												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699"><a href="faq/index.html" class="elementor-item" tabindex="-1">FAQ</a></li>
+												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="/carakerja" class="elementor-item" tabindex="-1">Cara Kerja</a></li>
+												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="/contact" class="elementor-item" tabindex="-1">Contact</a></li>
+												<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699"><a href="/faq" class="elementor-item" tabindex="-1">FAQ</a></li>
 											</ul>
 										</nav>
 									</div>
