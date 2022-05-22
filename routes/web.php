@@ -29,10 +29,19 @@ Route::get('/belajar', function() {
 Route::get('siswa', 'SiswaController@index');
 
 // route new
-Route::get('/blog', 'BlogController@home');
-Route::get('/blog/tentang', 'BlogController@tentang');
-Route::get('/blog/kontak', 'BlogController@kontak');
-Route::get('/blog/ourservice', 'BlogController@ourservice');
+Route::get('', 'BlogController@home');
+Route::get('/tentang', 'BlogController@tentang');
+Route::get('/kontak', 'BlogController@kontak');
+Route::get('/ourservice', 'BlogController@ourservice');
 Route::get('/carakerja', 'BlogController@carakerja');
 Route::get('/contact', 'BlogController@contact');
 Route::get('/faq', 'BlogController@faq');
+
+// route sidemenu
+Route::get('/kalkulator', 'SideMenuCotroller@menuKalkulator');
+Route::get('/pembayaran', 'SideMenuCotroller@menuPembayaran');
+Route::get('/dailyquotes', 'SideMenuCotroller@menuDailyQuotes');
+Route::get('/hubkerjasama', 'SideMenuCotroller@menuHubKerjaSama');
+Route::get('/warehousing', 'SideMenuCotroller@menuWarehousing');
+Route::get('/trucking', 'SideMenuCotroller@menuTrucking');
+Route::get('/cekresi', 'SideMenuCotroller@menuCekResi');

@@ -1,8 +1,15 @@
 
 @extends('utama')
 
+@section('title')
+    SEAMASTER LOGISTICS
+@endsection
+
 @section('konten')
 
+<div data-elementor-type="wp-page" data-elementor-id="607" class="elementor elementor-607">
+    <div class="elementor-inner">
+        <div class="elementor-section-wrap">
 <section class="elementor-section elementor-top-section elementor-element elementor-element-7f1e64f6 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7f1e64f6" data-element_type="section">
     <div class="elementor-container elementor-column-gap-default">
         <div class="elementor-row">
@@ -480,5 +487,8 @@
         </div>
     </div>
 </section>
+</div>
+</div>
+</div>
 
 @endsection
