@@ -21,10 +21,10 @@ Route::get('/hello', function () {
     return 'Hello World';
 });
 
-Route::get('/belajar', function() {
-    echo "<h1>Hello World</h1>";
-    echo "<p>Sedang belajar laravel</p>";
-});
+// Route::get('/belajar', function() {
+//     echo "<h1>Hello World</h1>";
+//     echo "<p>Sedang belajar laravel</p>";
+// });
 
 Route::get('siswa', 'SiswaController@index');
 
