@@ -1,7 +1,7 @@
 @extends('utama')
 
 @section('title')
-FAQ | SEAMASTER LOGISTICSS
+FAQ | SANGKARA BUANA LOGISTICSS
 @endsection
 
 @section('konten')
@@ -251,7 +251,7 @@ FAQ | SEAMASTER LOGISTICSS
       "e_scroll_snap": true
     },
     "urls": {
-      "assets": "https:\/\/seamasterlogistic.com\/wp-content\/plugins\/elementor\/assets\/"
+      "assets": "https:\/\/sangkarabuanalogistic.com\/wp-content\/plugins\/elementor\/assets\/"
     },
     "settings": {
       "page": [],

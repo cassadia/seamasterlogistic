@@ -1,7 +1,7 @@
 @extends('utama')
 
 @section('title')
-Contact | SEAMASTER LOGISTICSs
+Contact | SANGKARA BUANA LOGISTICSs
 @endsection
 
 
@@ -34,7 +34,7 @@ Contact | SEAMASTER LOGISTICSs
                                                     <form class="elementor-form" method="post" name="New Form">
                                                         <input type="hidden" name="post_id" value="624" />
                                                         <input type="hidden" name="form_id" value="16a77dc3" />
-                                                        <input type="hidden" name="referer_title" value="Contact | SEAMASTER LOGISTICS" />
+                                                        <input type="hidden" name="referer_title" value="Contact | SANGKARA BUANA LOGISTICS" />
 
                                                         <input type="hidden" name="queried_id" value="624" />
 

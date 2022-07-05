@@ -1,7 +1,7 @@
 @extends('utama')
 
 @section('title')
-Cara Kerja | SEAMASTER LOGISTICSs
+Cara Kerja | SANGKARA BUANA LOGISTICS
 @endsection
 
 @section('konten')
@@ -28,7 +28,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                             </div>
                                             <div class="elementor-element elementor-element-cab949b animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="cab949b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">Di bawah ini illustrasi cara kerja Seamaster Logistics</h2>
+                                                    <h2 class="elementor-heading-title elementor-size-default">Di bawah ini illustrasi cara kerja SANGKARA BUANA LOGISTICs</h2>
                                                 </div>
                                             </div>
                                             <section class="elementor-section elementor-inner-section elementor-element elementor-element-272b9901 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="272b9901" data-element_type="section">
@@ -40,7 +40,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-30bcea52 elementor-widget elementor-widget-image" data-id="30bcea52" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="323" height="265" src="../wp-content/uploads/2021/12/1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/1.png 323w, https://seamasterlogistic.com/wp-content/uploads/2021/12/1-300x246.png 300w" sizes="(max-width: 323px) 100vw, 323px" />
+                                                                                <img width="323" height="265" src="{!! asset('wp-content/uploads/2021/12/1.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/1.png') !!} 323w, {!! asset('wp-content/uploads/2021/12/1-300x246.png') !!} 300w" sizes="(max-width: 323px) 100vw, 323px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -59,7 +59,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-761a9e10 elementor-widget elementor-widget-image" data-id="761a9e10" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="328" height="250" src="../wp-content/uploads/2021/12/2.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/2.png 328w, https://seamasterlogistic.com/wp-content/uploads/2021/12/2-300x229.png 300w" sizes="(max-width: 328px) 100vw, 328px" />
+                                                                                <img width="328" height="250" src="{!! asset('wp-content/uploads/2021/12/2.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/2.png') !!} 328w, {!! asset('wp-content/uploads/2021/12/2-300x229.png') !!} 300w" sizes="(max-width: 328px) 100vw, 328px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -78,7 +78,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-5cae7dbc elementor-widget elementor-widget-image" data-id="5cae7dbc" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="322" height="251" src="../wp-content/uploads/2021/12/3.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/3.png 322w, https://seamasterlogistic.com/wp-content/uploads/2021/12/3-300x234.png 300w" sizes="(max-width: 322px) 100vw, 322px" />
+                                                                                <img width="322" height="251" src="{!! asset('wp-content/uploads/2021/12/3.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/3.png') !!} 322w, {!! asset('wp-content/uploads/2021/12/3-300x234.png') !!} 300w" sizes="(max-width: 322px) 100vw, 322px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -102,7 +102,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-2c53cbf4 elementor-widget elementor-widget-image" data-id="2c53cbf4" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="323" height="261" src="../wp-content/uploads/2021/12/4.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/4.png 323w, https://seamasterlogistic.com/wp-content/uploads/2021/12/4-300x242.png 300w" sizes="(max-width: 323px) 100vw, 323px" />
+                                                                                <img width="323" height="261" src="{!! asset('wp-content/uploads/2021/12/4.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/4.png') !!} 323w, {!! asset('wp-content/uploads/2021/12/4-300x242.png') !!} 300w" sizes="(max-width: 323px) 100vw, 323px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -121,7 +121,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-78a76193 elementor-widget elementor-widget-image" data-id="78a76193" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="321" height="277" src="../wp-content/uploads/2021/12/5.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/5.png 321w, https://seamasterlogistic.com/wp-content/uploads/2021/12/5-300x259.png 300w" sizes="(max-width: 321px) 100vw, 321px" />
+                                                                                <img width="321" height="277" src="{!! asset('wp-content/uploads/2021/12/5.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/5.png') !!} 321w, {!! asset('wp-content/uploads/2021/12/5-300x259.png') !!} 300w" sizes="(max-width: 321px) 100vw, 321px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -140,7 +140,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-6b9d3d47 elementor-widget elementor-widget-image" data-id="6b9d3d47" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="323" height="255" src="../wp-content/uploads/2021/12/6.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/6.png 323w, https://seamasterlogistic.com/wp-content/uploads/2021/12/6-300x237.png 300w" sizes="(max-width: 323px) 100vw, 323px" />
+                                                                                <img width="323" height="255" src="{!! asset('wp-content/uploads/2021/12/6.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/6.png') !!} 323w, {!! asset('wp-content/uploads/2021/12/6-300x237.png') !!} 300w" sizes="(max-width: 323px) 100vw, 323px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -165,7 +165,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-d4fe18f elementor-widget elementor-widget-image" data-id="d4fe18f" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="323" height="248" src="../wp-content/uploads/2021/12/7.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/7.png 323w, https://seamasterlogistic.com/wp-content/uploads/2021/12/7-300x230.png 300w" sizes="(max-width: 323px) 100vw, 323px" />
+                                                                                <img width="323" height="248" src="{!! asset('wp-content/uploads/2021/12/7.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/7.png') !!} 323w, {!! asset('wp-content/uploads/2021/12/7-300x230.png') !!} 300w" sizes="(max-width: 323px) 100vw, 323px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -184,7 +184,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-764a4efe elementor-widget elementor-widget-image" data-id="764a4efe" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="324" height="248" src="../wp-content/uploads/2021/12/8.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/8.png 324w, https://seamasterlogistic.com/wp-content/uploads/2021/12/8-300x230.png 300w" sizes="(max-width: 324px) 100vw, 324px" />
+                                                                                <img width="324" height="248" src="{!! asset('wp-content/uploads/2021/12/8.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/8.png') !!} 324w, {!! asset('wp-content/uploads/2021/12/8-300x230.png') !!} 300w" sizes="(max-width: 324px) 100vw, 324px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -204,7 +204,7 @@ Cara Kerja | SEAMASTER LOGISTICSs
                                                                     <div class="elementor-element elementor-element-37d18623 elementor-widget elementor-widget-image" data-id="37d18623" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
-                                                                                <img width="319" height="240" src="../wp-content/uploads/2021/12/9.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/9.png 319w, https://seamasterlogistic.com/wp-content/uploads/2021/12/9-300x226.png 300w" sizes="(max-width: 319px) 100vw, 319px" />
+                                                                                <img width="319" height="240" src="{!! asset('wp-content/uploads/2021/12/9.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/9.png') !!} 319w, {!! asset('wp-content/uploads/2021/12/9-300x226.png') !!} 300w" sizes="(max-width: 319px) 100vw, 319px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
