@@ -1,7 +1,7 @@
 @extends('utama')
 
 @section('title')
-FAQ | SANGKARA BUANA LOGISTICSS
+FAQ | SANGKARA BUANA LOGISTICS
 @endsection
 
 @section('konten')

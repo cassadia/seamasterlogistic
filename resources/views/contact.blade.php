@@ -1,7 +1,7 @@
 @extends('utama')
 
 @section('title')
-Contact | SANGKARA BUANA LOGISTICSs
+Contact | SANGKARA BUANA LOGISTICS
 @endsection
 
 

@@ -9,7 +9,7 @@
                                 <div class="elementor-element elementor-element-320cf13a elementor-widget elementor-widget-image" data-id="320cf13a" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                         <div class="elementor-image">
-                                            <img width="800" height="162" src="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-1024x207.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sangkarabuanalogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-1024x207.png 1024w, https://sangkarabuanalogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-300x61.png 300w, https://sangkarabuanalogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-768x155.png 768w, https://sangkarabuanalogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343.png 1080w" sizes="(max-width: 800px) 100vw, 800px" />
+                                            <img width="800" height="162" src="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-1024x207.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-1024x207.png') !!} 1024w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-300x61.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-768x155.png') !!} 768w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343.png') !!} 1080w" sizes="(max-width: 800px) 100vw, 800px" />
                                         </div>
                                     </div>
                                 </div>
@@ -27,18 +27,18 @@
                                                     <i class="fab fa-instagram"></i>
                                                 </a>
                                             </span>
-                                            <span class="elementor-grid-item">
+                                            <!-- <span class="elementor-grid-item" >
                                                 <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-7a9ec19" href="https://www.facebook.com/Seamaster-Logistics-105051194568186" target="_blank">
                                                     <span class="elementor-screen-only">Facebook</span>
                                                     <i class="fab fa-facebook"></i>
                                                 </a>
-                                            </span>
-                                            <span class="elementor-grid-item">
+                                            </span> -->
+                                            <!-- <span class="elementor-grid-item" hidden>
                                                 <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-859c0ec" href="https://www.youtube.com/channel/UC4sK6MFn0Pa_vXyjjeYxsqQ/playlists" target="_blank">
                                                     <span class="elementor-screen-only">Youtube</span>
                                                     <i class="fab fa-youtube"></i>
                                                 </a>
-                                            </span>
+                                            </span> -->
                                         </div>
                                     </div>
                                 </div>
@@ -100,7 +100,7 @@
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-729"><a href="/contact" class="elementor-item" tabindex="-1">Contact</a></li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-730"><a href="/faq" class="elementor-item" tabindex="-1">FAQ</a></li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="/kalkulator" class="elementor-item" tabindex="-1">Kalkulator</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="/pembayaran" class="elementor-item" tabindex="-1">Pembayaran RMB</a></li>
+                                                <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="/pembayaran" class="elementor-item" tabindex="-1">Pembayaran RMB</a></li> -->
                                             </ul>
                                         </nav>
                                         <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -114,7 +114,7 @@
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-729"><a href="/contact" class="elementor-item" tabindex="-1">Contact</a></li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-730"><a href="/faq" class="elementor-item" tabindex="-1">FAQ</a></li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="/kalkulator" class="elementor-item" tabindex="-1">Kalkulator</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="/pembayaran" class="elementor-item" tabindex="-1">Pembayaran RMB</a></li>
+                                                <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="/pembayaran" class="elementor-item" tabindex="-1">Pembayaran RMB</a></li> -->
                                             </ul>
                                         </nav>
                                     </div>
@@ -135,11 +135,11 @@
                                         <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
                                             <ul id="menu-1-43505363" class="elementor-nav-menu sm-vertical">
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="/dailyquotes" class="elementor-item">Daily Qoutes</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="/cekresi" class="elementor-item">Cek Resi</a></li>
+                                                <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="/cekresi" class="elementor-item">Cek Resi</a></li> -->
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="/hubkerjasama" class="elementor-item" tabindex="-1">Hubungan Kerjasama</a></li>
                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-736"><a href="/warehousing" class="elementor-item" tabindex="-1">Warehouse</a></li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-872"><a href="/trucking" class="elementor-item" tabindex="-1">Trucking</a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://www.youtube.com/channel/UC4sK6MFn0Pa_vXyjjeYxsqQ/playlists" class="elementor-item">Educational Video</a></li>
+                                                <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://www.youtube.com/channel/UC4sK6MFn0Pa_vXyjjeYxsqQ/playlists" class="elementor-item">Educational Video</a></li> -->
                                             </ul>
                                         </nav>
                                         <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -149,11 +149,11 @@
                                         <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
                                             <ul id="menu-1-43505363" class="elementor-nav-menu sm-vertical">
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="/dailyquotes" class="elementor-item">Daily Qoutes</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="/cekresi" class="elementor-item">Cek Resi</a></li>
+                                                <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="/cekresi" class="elementor-item">Cek Resi</a></li> -->
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="/hubkerjasama" class="elementor-item" tabindex="-1">Hubungan Kerjasama</a></li>
                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-736"><a href="/warehousing" class="elementor-item" tabindex="-1">Warehouse</a></li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-872"><a href="/trucking" class="elementor-item" tabindex="-1">Trucking</a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://www.youtube.com/channel/UC4sK6MFn0Pa_vXyjjeYxsqQ/playlists" class="elementor-item" tabindex="-1">Educational Video</a></li>
+                                                <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://www.youtube.com/channel/UC4sK6MFn0Pa_vXyjjeYxsqQ/playlists" class="elementor-item" tabindex="-1">Educational Video</a></li> -->
                                             </ul>
                                         </nav>
                                     </div>
@@ -223,7 +223,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-79027110 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="79027110" data-element_type="widget" data-widget_type="icon-list.default">
+                                <!-- <div class="elementor-element elementor-element-79027110 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="79027110" data-element_type="widget" data-widget_type="icon-list.default">
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
                                             <li class="elementor-icon-list-item">
@@ -249,7 +249,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="elementor-element elementor-element-1ccc46c0 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1ccc46c0" data-element_type="widget" data-widget_type="icon-list.default">
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
@@ -283,7 +283,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-141b4e1 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="141b4e1" data-element_type="widget" data-widget_type="icon-list.default">
+                                <!-- <div class="elementor-element elementor-element-141b4e1 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="141b4e1" data-element_type="widget" data-widget_type="icon-list.default">
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
                                             <li class="elementor-icon-list-item">
@@ -311,7 +311,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="elementor-element elementor-element-6d16ccb3 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6d16ccb3" data-element_type="widget" data-widget_type="icon-list.default">
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
@@ -402,7 +402,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-ba69d81 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ba69d81" data-element_type="widget" data-widget_type="icon-list.default">
+                                <!-- <div class="elementor-element elementor-element-ba69d81 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ba69d81" data-element_type="widget" data-widget_type="icon-list.default">
                                     <div class="elementor-widget-container">
                                         <ul class="elementor-icon-list-items">
                                             <li class="elementor-icon-list-item">
@@ -429,7 +429,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

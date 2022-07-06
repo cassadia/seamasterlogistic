@@ -27,12 +27,12 @@ SANGKARA BUANA LOGISTICS
                                                             </div>
                                                         </div>
                                                         <div class="elementor-repeater-item-f242386 swiper-slide">
-                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact/index.html">
+                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                 <div class="swiper-slide-contents"></div>
                                                             </a>
                                                         </div>
                                                         <div class="elementor-repeater-item-7a1f6b4 swiper-slide">
-                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact/index.html">
+                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                 <div class="swiper-slide-contents">
                                                                     <div class="elementor-slide-heading">Memberikan solusi terbaik untuk<br>kebutuhan cross border logistic Anda</div>
                                                                     <div class="elementor-slide-description">Import aman dan cepat. Didukung dengan tim <br>yang akan selalu memberikan solusi terbaik untuk<br>kebutuhan pengiriman anda</div>
@@ -41,7 +41,7 @@ SANGKARA BUANA LOGISTICS
                                                             </a>
                                                         </div>
                                                         <div class="elementor-repeater-item-1f2bba4 swiper-slide">
-                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact/index.html">
+                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                 <div class="swiper-slide-contents">
                                                                     <div class="elementor-slide-heading">Memberikan solusi terbaik untuk<br>kebutuhan cross border logistic Anda</div>
                                                                     <div class="elementor-slide-description">Import aman dan cepat. Didukung dengan tim <br>yang akan selalu memberikan solusi terbaik untuk<br>kebutuhan pengiriman anda</div>
@@ -73,12 +73,12 @@ SANGKARA BUANA LOGISTICS
                                                             </div>
                                                         </div>
                                                         <div class="elementor-repeater-item-ba0bfd6 swiper-slide">
-                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact/index.html">
+                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                 <div class="swiper-slide-contents"></div>
                                                             </a>
                                                         </div>
                                                         <div class="elementor-repeater-item-7a1f6b4 swiper-slide">
-                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact/index.html">
+                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                 <div class="swiper-slide-contents">
                                                                     <div class="elementor-slide-heading">Memberikan solusi terbaik untuk kebutuhan cross border logistic Anda</div>
                                                                     <div class="elementor-slide-description">Import aman dan cepat. <br>Didukung dengan tim yang akan selalu memberikan solusi terbaik untuk kebutuhan pengiriman anda</div>
@@ -87,7 +87,7 @@ SANGKARA BUANA LOGISTICS
                                                             </a>
                                                         </div>
                                                         <div class="elementor-repeater-item-1f2bba4 swiper-slide">
-                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact/index.html">
+                                                            <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                 <div class="swiper-slide-contents">
                                                                     <div class="elementor-slide-heading">Memberikan solusi terbaik untuk kebutuhan cross border logistic Anda</div>
                                                                     <div class="elementor-slide-description">Import aman dan cepat. <br>Didukung dengan tim yang akan selalu memberikan solusi terbaik untuk kebutuhan pengiriman anda</div>
@@ -208,7 +208,7 @@ SANGKARA BUANA LOGISTICS
                                                             <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/BANNER-4-04-1-scaled.jpg)"></div>
                                                         </div>
                                                         <div class="swiper-slide">
-                                                            <a href="contact/index.html">
+                                                            <a href="contact">
                                                                 <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/New-Project-6.png)"></div>
                                                             </a>
                                                         </div>
@@ -273,7 +273,7 @@ SANGKARA BUANA LOGISTICS
                                                 <div class="elementor-main-swiper swiper-container">
                                                     <div class="swiper-wrapper">
                                                         <div class="swiper-slide">
-                                                            <a href="contact/index.html">
+                                                            <a href="contact">
                                                                 <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/New-Project-6.png)"></div>
                                                             </a>
                                                         </div>

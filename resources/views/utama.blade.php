@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en-US">
 
-<!-- Mirrored from seamasterlogistic.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 May 2022 08:50:31 GMT -->
-<!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
@@ -22,7 +20,7 @@
     <meta property="og:description" content="Import aman dan cepat. Didukung dengan tim yang akan selalu memberikan solusi terbaik untuk kebutuhan pengiriman Anda." />
     <meta property="og:url" content="index.html" />
     <meta property="og:site_name" content="SANGKARA BUANA LOGISTICS" />
-    <meta property="article:publisher" content="https://www.facebook.com/Seamaster-Logistics-105051194568186" />
+    <!-- <meta property="article:publisher" content="https://www.facebook.com/Seamaster-Logistics-105051194568186" /> -->
     <meta property="article:modified_time" content="2022-04-27T07:42:24+00:00" />
     <meta property="og:image" content="wp-content/uploads/2021/12/Proyek-Baru21.png" />
     <meta property="og:image:width" content="512" />
@@ -36,77 +34,77 @@
             "@context": "https://schema.org",
             "@graph": [{
                 "@type": "Organization",
-                "@id": "https://seamasterlogistic.com/#organization",
+                "@id": "https://sangkarabuanalogistic.com/#organization",
                 "name": "SANGKARA BUANA LOGISTIC",
-                "url": "https://seamasterlogistic.com/",
-                "sameAs": ["https://www.facebook.com/Seamaster-Logistics-105051194568186", "https://www.instagram.com/sml.cargo/", "https://www.youtube.com/channel/UC4sK6MFn0Pa_vXyjjeYxsqQ/playlists"],
+                "url": "https://sangkarabuanalogistic.com/",
+                "sameAs": ["https://www.instagram.com/sangkarabuanalogistic/"],
                 "logo": {
                     "@type": "ImageObject",
-                    "@id": "https://seamasterlogistic.com/#logo",
+                    "@id": "https://sangkarabuanalogistic.com/#logo",
                     "inLanguage": "en-US",
-                    "url": "https://seamasterlogistic.com/wp-content/uploads/2021/12/LOGO-BLUE.png",
-                    "contentUrl": "https://seamasterlogistic.com/wp-content/uploads/2021/12/LOGO-BLUE.png",
+                    "url": "https://sangkarabuanalogistic.com/wp-content/uploads/2021/12/LOGO-BLUE.png",
+                    "contentUrl": "https://sangkarabuanalogistic.com/wp-content/uploads/2021/12/LOGO-BLUE.png",
                     "width": 881,
                     "height": 154,
                     "caption": "SANGKARA BUANA LOGISTIC"
                 },
                 "image": {
-                    "@id": "https://seamasterlogistic.com/#logo"
+                    "@id": "https://sangkarabuanalogistic.com/#logo"
                 }
             }, {
                 "@type": "WebSite",
-                "@id": "https://seamasterlogistic.com/#website",
-                "url": "https://seamasterlogistic.com/",
+                "@id": "https://sangkarabuanalogistic.com/#website",
+                "url": "https://sangkarabuanalogistic.com/",
                 "name": "SANGKARA BUANA LOGISTICS",
                 "description": "Import aman dan cepat. Didung dengan tim yang akan selalu memberikan solusi terbaik untuk kebutuhan pengiriman Anda",
                 "publisher": {
-                    "@id": "https://seamasterlogistic.com/#organization"
+                    "@id": "https://sangkarabuanalogistic.com/#organization"
                 },
                 "potentialAction": [{
                     "@type": "SearchAction",
                     "target": {
                         "@type": "EntryPoint",
-                        "urlTemplate": "https://seamasterlogistic.com/?s={search_term_string}"
+                        "urlTemplate": "https://sangkarabuanalogistic.com/?s={search_term_string}"
                     },
                     "query-input": "required name=search_term_string"
                 }],
                 "inLanguage": "en-US"
             }, {
                 "@type": "ImageObject",
-                "@id": "https://seamasterlogistic.com/#primaryimage",
+                "@id": "https://sangkarabuanalogistic.com/#primaryimage",
                 "inLanguage": "en-US",
-                "url": "https://seamasterlogistic.com/wp-content/uploads/2021/12/Proyek-Baru21.png",
-                "contentUrl": "https://seamasterlogistic.com/wp-content/uploads/2021/12/Proyek-Baru21.png",
+                "url": "https://sangkarabuanalogistic.com/wp-content/uploads/2021/12/Proyek-Baru21.png",
+                "contentUrl": "https://sangkarabuanalogistic.com/wp-content/uploads/2021/12/Proyek-Baru21.png",
                 "width": 512,
                 "height": 512
             }, {
                 "@type": "WebPage",
-                "@id": "https://seamasterlogistic.com/#webpage",
-                "url": "https://seamasterlogistic.com/",
+                "@id": "https://sangkarabuanalogistic.com/#webpage",
+                "url": "https://sangkarabuanalogistic.com/",
                 "name": "SANGKARA BUANA LOGISTICS",
                 "isPartOf": {
-                    "@id": "https://seamasterlogistic.com/#website"
+                    "@id": "https://sangkarabuanalogistic.com/#website"
                 },
                 "about": {
-                    "@id": "https://seamasterlogistic.com/#organization"
+                    "@id": "https://sangkarabuanalogistic.com/#organization"
                 },
                 "primaryImageOfPage": {
-                    "@id": "https://seamasterlogistic.com/#primaryimage"
+                    "@id": "https://sangkarabuanalogistic.com/#primaryimage"
                 },
                 "datePublished": "2021-12-14T05:24:07+00:00",
                 "dateModified": "2022-04-27T07:42:24+00:00",
                 "description": "Import aman dan cepat. Didukung dengan tim yang akan selalu memberikan solusi terbaik untuk kebutuhan pengiriman Anda.",
                 "breadcrumb": {
-                    "@id": "https://seamasterlogistic.com/#breadcrumb"
+                    "@id": "https://sangkarabuanalogistic.com/#breadcrumb"
                 },
                 "inLanguage": "en-US",
                 "potentialAction": [{
                     "@type": "ReadAction",
-                    "target": ["https://seamasterlogistic.com/"]
+                    "target": ["https://sangkarabuanalogistic.com/"]
                 }]
             }, {
                 "@type": "BreadcrumbList",
-                "@id": "https://seamasterlogistic.com/#breadcrumb",
+                "@id": "https://sangkarabuanalogistic.com/#breadcrumb",
                 "itemListElement": [{
                     "@type": "ListItem",
                     "position": 1,
@@ -127,7 +125,7 @@
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/",
             "svgExt": ".svg",
             "source": {
-                "concatemoji": "https:\/\/seamasterlogistic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"
+                "concatemoji": "https:\/\/sangkarabuanalogistic.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"
             }
         };
         /*! This file is auto-generated */
@@ -473,8 +471,8 @@
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 5.9.3" />
     <link rel='shortlink' href='index.html' />
-    <link rel="alternate" type="application/json+oembed" href="{!! asset('wp-json/oembed/1.0/embed82f5.json?url=https%3A%2F%2Fseamasterlogistic.com%2F') !!}" />
-    <link rel="alternate" type="text/xml+oembed" href="{!! asset('wp-json/oembed/1.0/embed7809?url=https%3A%2F%2Fseamasterlogistic.com%2F&amp;format=xml') !!}" />
+    <link rel="alternate" type="application/json+oembed" href="{!! asset('wp-json/oembed/1.0/embed82f5.json?url=https%3A%2F%2Fsangkarabuanalogistic.com%2F') !!}" />
+    <link rel="alternate" type="text/xml+oembed" href="{!! asset('wp-json/oembed/1.0/embed7809?url=https%3A%2F%2Fsangkarabuanalogistic.com%2F&amp;format=xml') !!}" />
     <!-- start Simple Custom CSS and JS -->
     <style type="text/css">
         .kotak {
@@ -564,7 +562,7 @@
     <link rel="icon" href="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-32x32.png" sizes="32x32') !!}" />
     <link rel="icon" href="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-192x192.png" sizes="192x192') !!}" />
     <link rel="apple-touch-icon" href="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-180x180.png') !!}" />
-    <meta name="msapplication-TileImage" content="https://seamasterlogistic.com/wp-content/uploads/2021/12/cropped-Proyek-Baru21-270x270.png" />
+    <meta name="msapplication-TileImage" content="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-270x270.png" />
 </head>
 
 <body class="home page-template-default page page-id-607 wp-custom-logo qodef-qi--no-touch qi-addons-for-elementor-1.5.3 elementor-default elementor-kit-458 elementor-page elementor-page-607">
@@ -721,13 +719,13 @@
                                                         <span class="elementor-icon-list-text"></span>
                                                     </a>
                                                 </li>
-                                                <li class="elementor-icon-list-item elementor-inline-item">
+                                                <!-- <li class="elementor-icon-list-item elementor-inline-item" hidden>
                                                     <a href="https://www.facebook.com/Seamaster-Logistics-105051194568186" target="_blank">
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="fab fa-facebook-square"></i></span>
                                                         <span class="elementor-icon-list-text"></span>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                             </ul>
                                         </div>
                                     </div>
@@ -871,18 +869,18 @@
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712">
                                                         <a href="/kalkulator" class="elementor-item">Kalkulator</a>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711">
+                                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711">
                                                         <a href="/pembayaran" class="elementor-item">Pembayaran RMB</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710">
                                                         <a href="/dailyqoutes" class="elementor-item">Daily Qoutes</a>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709">
+                                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709">
                                                         <a href="/cekresi" class="elementor-item">Cek Resi
                                                             <p style="color:#fff;">t</p><span style="color:#FA3E3E;">
                                                                 (coming soon)</span>
                                                         </a>
-                                                    </li>
+                                                    </li> -->
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708">
                                                         <a href="/hubkerjasama" class="elementor-item">Hubungan Kerjasama</a>
                                                     </li>
@@ -892,9 +890,9 @@
                                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-719">
                                                         <a href="/trucking" class="elementor-item">Trucking</a>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-720">
+                                                    <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-720">
                                                         <a href="https://www.youtube.com/channel/UC4sK6MFn0Pa_vXyjjeYxsqQ/playlists" class="elementor-item">Educational Video</a>
-                                                    </li>
+                                                    </li> -->
                                                 </ul>
                                             </nav>
                                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -921,17 +919,17 @@
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712">
                                                         <a href="/kalkulator" class="elementor-item" tabindex="-1">Kalkulator</a>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711">
+                                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711">
                                                         <a href="/pembayaranrmb" class="elementor-item" tabindex="-1">Pembayaran RMB</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710">
                                                         <a href="/dailyqoutes" class="elementor-item" tabindex="-1">Daily Qoutes</a>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709">
+                                                    <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709">
                                                         <a href="/cekresi" class="elementor-item" tabindex="-1">Cek Resi
                                                             <p style="color:#fff;">t</p><span style="color:#FA3E3E;">(coming soon)</span>
                                                         </a>
-                                                    </li>
+                                                    </li> -->
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708">
                                                         <a href="/hubkerjasama" class="elementor-item" tabindex="-1">Hubungan Kerjasama</a>
                                                     </li>
@@ -941,9 +939,9 @@
                                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-719">
                                                         <a href="/trucking" class="elementor-item" tabindex="-1">Trucking</a>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-720">
+                                                    <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-720">
                                                         <a href="https://www.youtube.com/channel/UC4sK6MFn0Pa_vXyjjeYxsqQ/playlists" class="elementor-item" tabindex="-1">Educational Video</a>
-                                                    </li>
+                                                    </li> -->
                                                 </ul>
                                             </nav>
                                         </div>
@@ -1130,7 +1128,7 @@
                 "e_scroll_snap": true
             },
             "urls": {
-                "assets": "https:\/\/seamasterlogistic.com\/wp-content\/plugins\/elementor\/assets\/"
+                "assets": "https:\/\/sangkarabuanalogistic.com\/wp-content\/plugins\/elementor\/assets\/"
             },
             "settings": {
                 "page": [],

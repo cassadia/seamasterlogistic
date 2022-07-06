@@ -38,7 +38,7 @@ Pembayaran RMB | SANGKARA BUANA LOGISTICS
                                     <div class="elementor-element elementor-element-ccb6cb4 elementor-mobile-align-center elementor-align-right elementor-widget elementor-widget-button" data-id="ccb6cb4" data-element_type="widget" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a href="../contact/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                <a href="../contact" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                                                     <span class="elementor-button-content-wrapper">
                                                         <span class="elementor-button-text">Hubungi Kami</span>
                                                     </span>
