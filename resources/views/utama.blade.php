@@ -553,11 +553,11 @@
                 dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src =
-                '../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-N4XVZFV');
+        })(window, document, 'script', 'dataLayer', 'GTM-N47M634');
     </script>
-    <!-- End Google Tag Manager -->
+    <!--End Google Tag Manager -->
     <!-- Analytics by WP-Statistics v13.2.1 - https://wp-statistics.com/ -->
     <link rel="icon" href="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-32x32.png" sizes="32x32') !!}" />
     <link rel="icon" href="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-192x192.png" sizes="192x192') !!}" />
@@ -568,8 +568,9 @@
 <body class="home page-template-default page page-id-607 wp-custom-logo qodef-qi--no-touch qi-addons-for-elementor-1.5.3 elementor-default elementor-kit-458 elementor-page elementor-page-607">
 
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4XVZFV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N47M634" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-dark-grayscale">
                 <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
