@@ -562,7 +562,7 @@
     <link rel="icon" href="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-32x32.png" sizes="32x32') !!}" />
     <link rel="icon" href="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-192x192.png" sizes="192x192') !!}" />
     <link rel="apple-touch-icon" href="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-180x180.png') !!}" />
-    <meta name="msapplication-TileImage" content="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-270x270.png" />
+    <meta name="msapplication-TileImage" content="{!! asset('wp-content/uploads/2021/12/cropped-Proyek-Baru21-270x270.png') !!}" />
 </head>
 
 <body class="home page-template-default page page-id-607 wp-custom-logo qodef-qi--no-touch qi-addons-for-elementor-1.5.3 elementor-default elementor-kit-458 elementor-page elementor-page-607">
@@ -746,7 +746,7 @@
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
                                                 <a href="index.html">
-                                                    <img width="1080" height="218" src="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343.png') !!}" class="attachment-full size-full" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343.png 1080w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-300x61.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-1024x207.png 1024w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-768x155.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+                                                    <img width="1080" height="218" src="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343.png') !!}" class="attachment-full size-full" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343.png') !!} 1080w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-300x61.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-1024x207.png') !!} 1024w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-768x155.png') !!} 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
                                                 </a>
                                             </div>
                                         </div>
@@ -836,7 +836,7 @@
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
                                                 <a href="index.html">
-                                                    <img width="1080" height="218" src="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343.png') !!}" class="attachment-full size-full" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343.png 1080w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-300x61.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-1024x207.png 1024w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Logo-e1637486807343-768x155.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+                                                    <img width="1080" height="218" src="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343.png') !!}" class="attachment-full size-full" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/Logo-e1637486807343.png') !!} 1080w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-300x61.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-1024x207.png') !!} 1024w, {!! asset('wp-content/uploads/2021/12/Logo-e1637486807343-768x155.png') !!} 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
                                                 </a>
                                             </div>
                                         </div>

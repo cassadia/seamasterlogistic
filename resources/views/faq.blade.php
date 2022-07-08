@@ -136,7 +136,7 @@ FAQ | SANGKARA BUANA LOGISTICS
                               Kami akan bantu untuk memberi solusi terbaik untuk ANDA
 
 
-                              <button style="padding: 5px 10px;color: #1e69b9;border: none;background-color: white;border-radius: 20px"><a style="color: #1e69b9" href="http://dev2.nore.web.id/seamaster-contact/">HUBUNGI
+                              <button style="padding: 5px 10px;color: #008ea9;border: none;background-color: white;border-radius: 20px"><a style="color: #008ea9" href="http://dev2.nore.web.id/seamaster-contact/">HUBUNGI
                                   KAMI</a></button>
                             </div>
                           </div>

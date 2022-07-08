@@ -7,7 +7,7 @@ Trucking | SANGKARA BUANA LOGISTICS
 @section('konten')
 
 <head>
-  <link rel='stylesheet' id='elementor-post-865-css' href={!! asset('wp-content/uploads/elementor/css/post-865156f.css?ver=1651132776') !!} type='text/css' media='all' />
+  <link rel='stylesheet' id='elementor-post-865-css' href="{!! asset('wp-content/uploads/elementor/css/post-865156f.css?ver=1651132776') !!}" type='text/css' media='all' />
 </head>
 
 <div data-elementor-type="wp-page" data-elementor-id="865" class="elementor elementor-865">
