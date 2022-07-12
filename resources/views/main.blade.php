@@ -20,17 +20,17 @@ SANGKARA BUANA LOGISTICS
                                             <div class="elementor-swiper">
                                                 <div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
                                                     <div class="swiper-wrapper elementor-slides">
-                                                        <div class="elementor-repeater-item-0fea023 swiper-slide">
+                                                        <!-- <div class="elementor-repeater-item-0fea023 swiper-slide">
                                                             <div class="swiper-slide-bg"></div>
                                                             <div class="swiper-slide-inner">
                                                                 <div class="swiper-slide-contents"></div>
                                                             </div>
-                                                        </div>
-                                                        <div class="elementor-repeater-item-f242386 swiper-slide">
+                                                        </div> -->
+                                                        <!-- <div class="elementor-repeater-item-f242386 swiper-slide">
                                                             <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                 <div class="swiper-slide-contents"></div>
                                                             </a>
-                                                        </div>
+                                                        </div> -->
                                                         <div class="elementor-repeater-item-7a1f6b4 swiper-slide">
                                                             <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                 <div class="swiper-slide-contents">
