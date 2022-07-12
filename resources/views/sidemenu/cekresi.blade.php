@@ -130,7 +130,7 @@ Cek Resi | SANGKARA BUANA LOGISTICS
                               <div class="elementor-element elementor-element-1be663ee elementor-widget elementor-widget-image" data-id="1be663ee" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                   <div class="elementor-image">
-                                    <img width="378" height="157" src="../wp-content/uploads/2021/12/SML-WEBSITE-NEW-ai.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/SML-WEBSITE-NEW-ai.png 378w, https://seamasterlogistic.com/wp-content/uploads/2021/12/SML-WEBSITE-NEW-ai-300x125.png 300w" sizes="(max-width: 378px) 100vw, 378px" />
+                                    <img width="378" height="157" src="{!! asset('wp-content/uploads/2021/12/SML-WEBSITE-NEW-ai.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/SML-WEBSITE-NEW-ai.png') !!} 378w, {!! asset('wp-content/uploads/2021/12/SML-WEBSITE-NEW-ai-300x125.png') !!} 300w" sizes="(max-width: 378px) 100vw, 378px" />
                                   </div>
                                 </div>
                               </div>

@@ -72,7 +72,7 @@ Kalkulator | SANGKARA BUANA LOGISTICS
 															<div class="elementor-element elementor-element-7a836b04 bendera elementor-widget elementor-widget-image" data-id="7a836b04" data-element_type="widget" id="hkbtn" data-widget_type="image.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-image">
-																		<img width="800" height="533" src="../wp-content/uploads/2021/12/Flag_of_Hong_Kong.svg.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/Flag_of_Hong_Kong.svg.png 800w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Flag_of_Hong_Kong.svg-300x200.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Flag_of_Hong_Kong.svg-768x512.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+																		<img width="800" height="533" src="../wp-content/uploads/2021/12/Flag_of_Hong_Kong.svg.png" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/Flag_of_Hong_Kong.svg.png') !!} 800w, {!! asset('wp-content/uploads/2021/12/Flag_of_Hong_Kong.svg-300x200.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/Flag_of_Hong_Kong.svg-768x512.png 768w') !!}" sizes="(max-width: 800px) 100vw, 800px" />
 																	</div>
 																</div>
 															</div>

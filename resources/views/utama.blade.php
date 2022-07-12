@@ -764,7 +764,7 @@
                                             <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
                                                 <ul id="menu-1-1a6ec2a4" class="elementor-nav-menu">
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-607 current_page_item menu-item-703">
-                                                        <a href="" aria-current="page" class="elementor-item elementor-item-active">Home</a>
+                                                        <a href="/" aria-current="page" class="elementor-item elementor-item-active">Home</a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
                                                         <a href="/ourservice" class="elementor-item">Our Service</a>
@@ -989,7 +989,7 @@
         </div>
         <div class="joinchat__box">
             <div class="joinchat__header">
-                <a class="joinchat__powered" href="https://join.chat/en/powered/?site=SEAMASTER+LOGISTICS&amp;url=https%3A%2F%2Fseamasterlogistic.com" rel="nofollow noopener" target="_blank">
+                <a class="joinchat__powered" href="https://join.chat/en/powered/?site=SANGKARA+BUANA+LOGISTICS&amp;url=https%3A%2F%2Fsangkarabuanalogistic.com" rel="nofollow noopener" target="_blank">
                     Powered by <svg width="81" height="18" viewbox="0 0 1424 318">
                         <title>Join.chat</title>
                         <path d="m171 7 6 2 3 3v5l-1 8a947 947 0 0 0-2 56v53l1 24v31c0 22-6 43-18 63-11 19-27 35-48 48s-44 18-69 18c-14 0-24-3-32-8-7-6-11-13-11-23a26 26 0 0 1 26-27c7 0 13 2 19 6l12 12 1 1a97 97 0 0 0 10 13c4 4 7 6 10 6 4 0 7-2 10-6l6-23v-1c2-12 3-28 3-48V76l-1-3-3-1h-1l-11-2c-2-1-3-3-3-7s1-6 3-7a434 434 0 0 0 90-49zm1205 43c4 0 6 1 6 3l3 36a1888 1888 0 0 0 34 0h1l3 2 1 8-1 8-3 1h-35v62c0 14 2 23 5 28 3 6 9 8 16 8l5-1 3-1c2 0 3 1 5 3s3 4 2 6c-4 10-11 19-22 27-10 8-22 12-36 12-16 0-28-5-37-15l-8-13v1h-1c-17 17-33 26-47 26-18 0-31-13-39-39-5 12-12 22-21 29s-19 10-31 10c-11 0-21-4-29-13-7-8-11-18-11-30 0-10 2-17 5-23s9-11 17-15c13-7 35-14 67-21h1v-11c0-11-2-19-5-26-4-6-8-9-14-9-3 0-5 1-5 4v1l-2 15c-2 11-6 19-11 24-6 6-14 8-23 8-5 0-9-1-13-4-3-3-5-8-5-13 0-11 9-22 26-33s38-17 60-17c41 0 62 15 62 46v58l1 11 2 8 2 3h4l5-3 1-1-1-13v-88l-3-2-12-1c-1 0-2-3-2-7s1-6 2-6c16-4 29-9 40-15 10-6 20-15 31-25 1-2 4-3 7-3zM290 88c28 0 50 7 67 22 17 14 25 34 25 58 0 26-9 46-27 61s-42 22-71 22c-28 0-50-7-67-22a73 73 0 0 1-25-58c0-26 9-46 27-61s42-22 71-22zm588 0c19 0 34 4 45 12 11 9 17 18 17 29 0 6-3 11-7 15s-10 6-17 6c-13 0-24-8-33-25-5-11-10-18-13-21s-6-5-9-5c-8 0-11 6-11 17a128 128 0 0 0 32 81c8 8 16 12 25 12 8 0 16-3 24-10 1-1 3 0 6 2 2 2 3 3 3 5-5 12-15 23-29 32s-30 13-48 13c-24 0-43-7-58-22a78 78 0 0 1-22-58c0-25 9-45 27-60s41-23 68-23zm-402-3 5 2 3 3-1 10a785 785 0 0 0-2 53v76c1 3 2 4 4 4l11 3 11-3c3 0 4-1 4-4v-82l-1-2-3-2-11-1-2-6c0-4 1-6 2-6a364 364 0 0 0 77-44l5 2 3 3v12a393 393 0 0 0-1 21c5-10 12-18 22-25 9-8 21-11 34-11 16 0 29 5 38 14 10 9 14 22 14 39v88c0 3 2 4 4 4l11 3c1 0 2 2 2 6 0 5-1 7-2 7h-1a932 932 0 0 1-49-2 462 462 0 0 0-48 2c-2 0-3-2-3-7 0-3 1-6 3-6l8-3 3-1 1-3v-62c0-14-2-24-6-29-4-6-12-9-22-9l-7 1v99l1 3 3 1 8 3h1l2 6c0 5-1 7-3 7a783 783 0 0 1-47-2 512 512 0 0 0-51 2h-1a895 895 0 0 1-49-2 500 500 0 0 0-50 2c-1 0-2-2-2-7 0-4 1-6 2-6l11-3c2 0 3-1 4-4v-82l-1-3-3-1-11-2c-1 0-2-2-2-6l2-6a380 380 0 0 0 80-44zm539-75 5 2 3 3-1 9a758 758 0 0 0-2 55v42h1c5-9 12-16 21-22 9-7 20-10 32-10 16 0 29 5 38 14 10 9 14 22 14 39v88c0 2 2 3 4 4l11 2c1 0 2 2 2 7 0 4-1 6-2 6h-1a937 937 0 0 1-49-2 466 466 0 0 0-48 2c-2 0-3-2-3-6s1-7 3-7l8-2 3-2 1-3v-61c0-14-2-24-6-29-4-6-12-9-22-9l-7 1v99l1 2 3 2 8 2h1c1 1 2 3 2 7s-1 6-3 6a788 788 0 0 1-47-2 517 517 0 0 0-51 2c-1 0-2-2-2-6 0-5 1-7 2-7l11-2c3-1 4-2 4-5V71l-1-3-3-1-11-2c-1 0-2-2-2-6l2-6a387 387 0 0 0 81-43zm-743 90c-8 0-12 7-12 20a266 266 0 0 0 33 116c3 3 6 4 9 4 8 0 12-6 12-20 0-17-4-38-11-65-8-27-15-44-22-50-3-4-6-5-9-5zm939 65c-6 0-9 4-9 13 0 8 2 16 7 22 5 7 10 10 15 10l6-2v-22c0-6-2-11-7-15-4-4-8-6-12-6zM451 0c10 0 18 3 25 10s10 16 10 26a35 35 0 0 1-35 36c-11 0-19-4-26-10-7-7-10-16-10-26s3-19 10-26 15-10 26-10zm297 249c9 0 16-3 22-8 6-6 9-12 9-20s-3-15-9-21-13-8-22-8-16 3-22 8-9 12-9 21 3 14 9 20 13 8 22 8z" />
@@ -1147,9 +1147,9 @@
             },
             "post": {
                 "id": 607,
-                "title": "SEAMASTER%20LOGISTICS",
+                "title": "SANGKARA%20BUANA%20LOGISTICS",
                 "excerpt": "",
-                "featuredImage": "https:\/\/seamasterlogistic.com\/wp-content\/uploads\/2021\/12\/Proyek-Baru21.png"
+                "featuredImage": "https:\/\/sangkarabuanalogistic.com\/wp-content\/uploads\/2021\/12\/Proyek-Baru21.png"
             }
         };
     </script>
@@ -1180,11 +1180,11 @@
     </script>
     <script type='text/javascript' id='elementor-pro-frontend-js-before'>
         var ElementorProFrontendConfig = {
-            "ajaxurl": "https:\/\/seamasterlogistic.com\/wp-admin\/admin-ajax.php",
+            "ajaxurl": "https:\/\/sangkarabuanalogistic.com\/wp-admin\/admin-ajax.php",
             "nonce": "da0a4441b7",
             "urls": {
-                "assets": "https:\/\/seamasterlogistic.com\/wp-content\/plugins\/elementor-pro\/assets\/",
-                "rest": "https:\/\/seamasterlogistic.com\/wp-json\/"
+                "assets": "https:\/\/sangkarabuanalogistic.com\/wp-content\/plugins\/elementor-pro\/assets\/",
+                "rest": "https:\/\/sangkarabuanalogistic.com\/wp-json\/"
             },
             "shareButtonsNetworks": {
                 "facebook": {
@@ -1256,7 +1256,7 @@
                 "app_id": ""
             },
             "lottie": {
-                "defaultAnimationUrl": "https:\/\/seamasterlogistic.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
+                "defaultAnimationUrl": "https:\/\/sangkarabuanalogistic.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
             }
         };
     </script>

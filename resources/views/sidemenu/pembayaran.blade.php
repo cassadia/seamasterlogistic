@@ -86,7 +86,7 @@ Pembayaran RMB | SANGKARA BUANA LOGISTICS
                                     <div class="elementor-element elementor-element-201c5888 elementor-widget elementor-widget-image" data-id="201c5888" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <img width="280" height="281" src="../wp-content/uploads/2021/12/Asset-31-svg.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/Asset-31-svg.png 280w, https://seamasterlogistic.com/wp-content/uploads/2021/12/Asset-31-svg-150x150.png 150w" sizes="(max-width: 280px) 100vw, 280px" />
+                                                <img width="280" height="281" src="{!! asset('wp-content/uploads/2021/12/Asset-31-svg.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/Asset-31-svg.png') !!} 280w, {!! asset('wp-content/uploads/2021/12/Asset-31-svg-150x150.png') !!} 150w" sizes="(max-width: 280px) 100vw, 280px" />
                                             </div>
                                         </div>
                                     </div>
@@ -111,7 +111,7 @@ Pembayaran RMB | SANGKARA BUANA LOGISTICS
                                                             <div class="elementor-element elementor-element-36e5ac93 elementor-widget elementor-widget-image" data-id="36e5ac93" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image">
-                                                                        <img width="800" height="569" src="../wp-content/uploads/2021/12/SCREEN-SHOOT-INVOICE.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/SCREEN-SHOOT-INVOICE.png 1010w, https://seamasterlogistic.com/wp-content/uploads/2021/12/SCREEN-SHOOT-INVOICE-300x213.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/SCREEN-SHOOT-INVOICE-768x546.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="569" src="{!! asset('wp-content/uploads/2021/12/SCREEN-SHOOT-INVOICE.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/SCREEN-SHOOT-INVOICE.png') !!} 1010w, {!! asset('wp-content/uploads/2021/12/SCREEN-SHOOT-INVOICE-300x213.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/SCREEN-SHOOT-INVOICE-768x546') !!} 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -243,7 +243,7 @@ Pembayaran RMB | SANGKARA BUANA LOGISTICS
                                                             <div class="elementor-element elementor-element-46ff4d79 elementor-widget elementor-widget-image" data-id="46ff4d79" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image">
-                                                                        <img width="800" height="569" src="../wp-content/uploads/2021/12/INFORMASI-DETAIL.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/INFORMASI-DETAIL.png 1010w, https://seamasterlogistic.com/wp-content/uploads/2021/12/INFORMASI-DETAIL-300x213.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/INFORMASI-DETAIL-768x546.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="569" src="{!! asset('wp-content/uploads/2021/12/INFORMASI-DETAIL.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/INFORMASI-DETAIL.png') !!} 1010w, {!! asset('wp-content/uploads/2021/12/INFORMASI-DETAIL-300x213.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/INFORMASI-DETAIL-768x546.png') !!} 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -262,7 +262,7 @@ Pembayaran RMB | SANGKARA BUANA LOGISTICS
                                                             <div class="elementor-element elementor-element-40b9c591 elementor-widget elementor-widget-image" data-id="40b9c591" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image">
-                                                                        <img width="800" height="568" src="../wp-content/uploads/2021/12/BANK.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/BANK.png 999w, https://seamasterlogistic.com/wp-content/uploads/2021/12/BANK-300x213.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/BANK-768x545.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="568" src="{!! asset('wp-content/uploads/2021/12/BANK.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/BANK.png') !!} 999w, {!! asset('wp-content/uploads/2021/12/BANK-300x213.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/BANK-768x545.png') !!} 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -401,7 +401,7 @@ Pembayaran RMB | SANGKARA BUANA LOGISTICS
                                                             <div class="elementor-element elementor-element-2c5082e8 elementor-widget elementor-widget-image" data-id="2c5082e8" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image">
-                                                                        <img width="800" height="569" src="../wp-content/uploads/2021/12/CEK-KEMBALI.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/CEK-KEMBALI.png 1010w, https://seamasterlogistic.com/wp-content/uploads/2021/12/CEK-KEMBALI-300x213.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/CEK-KEMBALI-768x546.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="569" src="{!! asset('wp-content/uploads/2021/12/CEK-KEMBALI.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/CEK-KEMBALI.png') !!} 1010w, {!! asset('wp-content/uploads/2021/12/CEK-KEMBALI-300x213.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/CEK-KEMBALI-768x546.png') !!} 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -420,7 +420,7 @@ Pembayaran RMB | SANGKARA BUANA LOGISTICS
                                                             <div class="elementor-element elementor-element-477831b elementor-widget elementor-widget-image" data-id="477831b" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image">
-                                                                        <img width="800" height="568" src="../wp-content/uploads/2021/12/KURS-IDR-RMB.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/KURS-IDR-RMB.png 1010w, https://seamasterlogistic.com/wp-content/uploads/2021/12/KURS-IDR-RMB-300x213.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/KURS-IDR-RMB-768x545.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="568" src="{!! asset('wp-content/uploads/2021/12/KURS-IDR-RMB.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/KURS-IDR-RMB.png') !!} 1010w, {!! asset('wp-content/uploads/2021/12/KURS-IDR-RMB-300x213.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/KURS-IDR-RMB-768x545.png') !!} 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -576,7 +576,7 @@ Pembayaran RMB | SANGKARA BUANA LOGISTICS
                                                             <div class="elementor-element elementor-element-572155ae elementor-widget elementor-widget-image" data-id="572155ae" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image">
-                                                                        <img width="800" height="568" src="../wp-content/uploads/2021/12/KURS-IDR-RMB.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/KURS-IDR-RMB.png 1010w, https://seamasterlogistic.com/wp-content/uploads/2021/12/KURS-IDR-RMB-300x213.png 300w, https://seamasterlogistic.com/wp-content/uploads/2021/12/KURS-IDR-RMB-768x545.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                        <img width="800" height="568" src="{!! asset('wp-content/uploads/2021/12/KURS-IDR-RMB.png') !!}" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/KURS-IDR-RMB.png') !!} 1010w, {!! asset('wp-content/uploads/2021/12/KURS-IDR-RMB-300x213.png') !!} 300w, {!! asset('wp-content/uploads/2021/12/KURS-IDR-RMB-768x545.png') !!} 768w" sizes="(max-width: 800px) 100vw, 800px" />
                                                                     </div>
                                                                 </div>
                                                             </div>

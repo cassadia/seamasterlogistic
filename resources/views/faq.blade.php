@@ -269,7 +269,7 @@ FAQ | SANGKARA BUANA LOGISTICS
     },
     "post": {
       "id": 636,
-      "title": "FAQ%20%7C%20SEAMASTER%20LOGISTICS",
+      "title": "FAQ%20%7C%20SANGKARA%20BUANA%20LOGISTICS",
       "excerpt": "",
       "featuredImage": false
     }

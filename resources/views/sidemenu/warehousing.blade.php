@@ -71,7 +71,7 @@ Warehouse | SANGKARA BUANA LOGISTIC
                   <div class="elementor-element elementor-element-1c0aa66 elementor-widget elementor-widget-image" data-id="1c0aa66" data-element_type="widget" data-widget_type="image.default">
                     <div class="elementor-widget-container">
                       <div class="elementor-image">
-                        <img width="685" height="486" src="../wp-content/uploads/2021/12/WAREHOUSING.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://seamasterlogistic.com/wp-content/uploads/2021/12/WAREHOUSING.png 685w, https://seamasterlogistic.com/wp-content/uploads/2021/12/WAREHOUSING-300x213.png 300w" sizes="(max-width: 685px) 100vw, 685px" />
+                        <img width="685" height="486" src="../wp-content/uploads/2021/12/WAREHOUSING.png" class="attachment-large size-large" alt="" loading="lazy" srcset="{!! asset('wp-content/uploads/2021/12/WAREHOUSING.png') !!} 685w, {!! asset('wp-content/uploads/2021/12/WAREHOUSING-300x213.png') !!} 300w" sizes="(max-width: 685px) 100vw, 685px" />
                       </div>
                     </div>
                   </div>

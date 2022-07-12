@@ -34,7 +34,7 @@ Trucking | SANGKARA BUANA LOGISTICS
                   <div class="elementor-element elementor-element-6308a23 elementor-align-center elementor-widget elementor-widget-button" data-id="6308a23" data-element_type="widget" data-widget_type="button.default">
                     <div class="elementor-widget-container">
                       <div class="elementor-button-wrapper">
-                        <a href="mailto:smltrucking@seamasterlogistic.com" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                        <a href="mailto:sangkarabuanalogistic@gmail.com" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                           <span class="elementor-button-content-wrapper">
                             <span class="elementor-button-text">Email us at</span>
                           </span>
