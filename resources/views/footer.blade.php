@@ -60,9 +60,12 @@
                                 </div>
                                 <div class="elementor-element elementor-element-201ee86a elementor-widget elementor-widget-heading" data-id="201ee86a" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h2 class="elementor-heading-title elementor-size-default">Jl. Griya Sejahtera blok A no 10, RT.7/RW.4,<br>
-                                            Sunter Agung, Tj. Priok, Kota Jkt Utara,<br>
-                                            Daerah Khusus Ibukota Jakarta 14350
+                                        <h2 class="elementor-heading-title elementor-size-default">
+                                            Jl. Boulevard Barat. Ruko Inkopal Blok C No 28<br>
+                                            RT.15/RW.3, Klp. Gading Bar.<br>
+                                            Kec. Klp. Gading<br>
+                                            Kota Jkt Utara<br>
+                                            Daerah Khusus Ibukota Jakarta 14240
                                         </h2>
                                     </div>
                                 </div>

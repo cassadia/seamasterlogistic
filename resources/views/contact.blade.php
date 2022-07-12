@@ -92,15 +92,19 @@ Contact | SANGKARA BUANA LOGISTICS
                                             </div>
                                             <div class="elementor-element elementor-element-5e4f64a8 elementor-widget elementor-widget-heading" data-id="5e4f64a8" data-element_type="widget" data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">Jl. Griya Sejahtera No.1, RT.7/RW.4, Sunter Agung,<br>
-                                                        Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota<br>
-                                                        Jakarta 14350</h2>
+                                                    <h2 class="elementor-heading-title elementor-size-default">
+                                                        Jl. Boulevard Barat. Ruko Inkopal Blok C No 28<br>
+                                                        RT.15/RW.3, Klp. Gading Bar.<br>
+                                                        Kec. Klp. Gading<br>
+                                                        Kota Jkt Utara<br>
+                                                        Daerah Khusus Ibukota Jakarta 14240
+                                                    </h2>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-f495204 elementor-widget elementor-widget-google_maps" data-id="f495204" data-element_type="widget" data-widget_type="google_maps.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-custom-embed">
-                                                        <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=apartemen%20sunter%20icon&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" title="apartemen sunter icon" aria-label="apartemen sunter icon"></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.8420337235652!2d106.88535592997103!3d-6.151905081299535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f54034e336e7%3A0x4f74f4ea13ad6c9!2sVelo%20Cycles!5e0!3m2!1sid!2sid!4v1657613347738!5m2!1sid!2sid" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                                     </div>
                                                 </div>
                                             </div>
