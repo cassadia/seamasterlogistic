@@ -764,19 +764,19 @@
                                             <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
                                                 <ul id="menu-1-1a6ec2a4" class="elementor-nav-menu">
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-607 current_page_item menu-item-703">
-                                                        <a href="/" aria-current="page" class="elementor-item elementor-item-active">Home</a>
+                                                        <a id="target_home" href="/" aria-current="page" class="elementor-item">Home</a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
-                                                        <a href="/ourservice" class="elementor-item">Our Service</a>
+                                                        <a id="target_our_service" href="/ourservice" class="elementor-item">Our Service</a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701">
-                                                        <a href="/carakerja" class="elementor-item">Cara Kerja</a>
+                                                        <a id="target_cara_kerja" href="/carakerja" class="elementor-item">Cara Kerja</a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700">
-                                                        <a href="/contact" class="elementor-item">Contact</a>
+                                                        <a id="target_contact" href="/contact" class="elementor-item">Contact</a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
-                                                        <a href="/faq" class="elementor-item">FAQ</a>
+                                                        <a id="target_FAQ" href="/faq" class="elementor-item">FAQ</a>
                                                     </li>
                                                 </ul>
                                             </nav>
@@ -853,7 +853,7 @@
                                             <nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
                                                 <ul id="menu-1-3f1f3485" class="elementor-nav-menu">
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-607 current_page_item menu-item-717">
-                                                        <a href="" aria-current="page" class="elementor-item elementor-item-active">Home</a>
+                                                        <a href="" aria-current="page" class="elementor-item">Home</a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-716">
                                                         <a href="/ourservice" class="elementor-item">Our Service</a>
