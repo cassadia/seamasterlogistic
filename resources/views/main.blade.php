@@ -32,7 +32,7 @@ SANGKARA BUANA LOGISTICS
                                                                 <div class="swiper-slide-contents"></div>
                                                             </a>
                                                         </div> -->
-                                                            <div class="elementor-repeater-item-7a1f6b4 swiper-slide">
+                                                            <!-- <div class="elementor-repeater-item-7a1f6b4 swiper-slide">
                                                                 <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                     <div class="swiper-slide-contents">
                                                                         <div class="elementor-slide-heading">Memberikan solusi terbaik untuk<br>kebutuhan cross border logistic Anda</div>
@@ -40,7 +40,7 @@ SANGKARA BUANA LOGISTICS
                                                                         <div class="elementor-button elementor-slide-button elementor-size-sm">Hubungi Kami</div>
                                                                     </div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="elementor-repeater-item-1f2bba4 swiper-slide">
                                                                 <div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="contact">
                                                                     <div class="swiper-slide-contents">
@@ -243,7 +243,7 @@ SANGKARA BUANA LOGISTICS
                                                     <div class="elementor-main-swiper swiper-container">
                                                         <div class="swiper-wrapper">
                                                             <div class="swiper-slide">
-                                                                <a href="https://www.instagram.com/sml.cargo/">
+                                                                <a href="https://www.instagram.com/sangkarabuanalogistic/">
                                                                     <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2022/03/Proyek-Baru113-1-1-1.png)"></div>
                                                                 </a>
                                                             </div>
@@ -440,30 +440,42 @@ SANGKARA BUANA LOGISTICS
                                                 <div class="elementor-swiper">
                                                     <div class="elementor-main-swiper swiper-container">
                                                         <div class="swiper-wrapper">
-                                                            <div class="swiper-slide">
+                                                            <!-- <div class="swiper-slide">
                                                                 <a href="our-service/index.html">
                                                                     <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/TIANJIN.png)"></div>
                                                                     <div class="elementor-carousel-image-overlay e-overlay-animation-slide-up">TIANJIN</div>
                                                                 </a>
+                                                            </div> -->
+                                                            <div class="swiper-slide">
+                                                                <a href="our-service/index.html">
+                                                                    <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/SINGAPURA.png)"></div>
+                                                                    <div class="elementor-carousel-image-overlay e-overlay-animation-slide-up">SINGAPURA</div>
+                                                                </a>
                                                             </div>
                                                             <div class="swiper-slide">
                                                                 <a href="our-service/index.html">
-                                                                    <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/THAILAND-1.png)"></div>
+                                                                    <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/THAILAND.png)"></div>
                                                                     <div class="elementor-carousel-image-overlay e-overlay-animation-slide-up">THAILAND</div>
                                                                 </a>
                                                             </div>
                                                             <div class="swiper-slide">
                                                                 <a href="our-service/index.html">
+                                                                    <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/MALAYSIA.png)"></div>
+                                                                    <div class="elementor-carousel-image-overlay e-overlay-animation-slide-up">MALAYSIA</div>
+                                                                </a>
+                                                            </div>
+                                                            <!-- <div class="swiper-slide">
+                                                                <a href="our-service/index.html">
                                                                     <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/SHEN-ZHEN.png)"></div>
                                                                     <div class="elementor-carousel-image-overlay e-overlay-animation-slide-up">SHEN ZHEN</div>
                                                                 </a>
-                                                            </div>
-                                                            <div class="swiper-slide">
+                                                            </div> -->
+                                                            <!-- <div class="swiper-slide">
                                                                 <a href="our-service/index.html">
                                                                     <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/HONGKONG-1.png)"></div>
                                                                     <div class="elementor-carousel-image-overlay e-overlay-animation-slide-up">HONGKONG</div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="swiper-slide">
                                                                 <a href="our-service/index.html">
                                                                     <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/GUANGZHOU.png)"></div>
