@@ -214,7 +214,7 @@ SANGKARA BUANA LOGISTICS
                                                                 </a>
                                                             </div>
                                                             <div class="swiper-slide">
-                                                                <a href="https://www.instagram.com/sml.cargo/" target="_blank">
+                                                                <a href="https://www.instagram.com/sangkarabuanalogistic/" target="_blank">
                                                                     <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/WhatsApp-Image-2021-12-29-at-19.25.08.html)"></div>
                                                                 </a>
                                                             </div>
@@ -279,7 +279,7 @@ SANGKARA BUANA LOGISTICS
                                                                 </a>
                                                             </div>
                                                             <div class="swiper-slide">
-                                                                <a href="https://www.instagram.com/sml.cargo/" target="_blank">
+                                                                <a href="https://www.instagram.com/sangkarabuanalogistic/" target="_blank">
                                                                     <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2022/03/New-Project-76.png)"></div>
                                                                 </a>
                                                             </div>

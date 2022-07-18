@@ -714,7 +714,7 @@
                                         <div class="elementor-widget-container">
                                             <ul class="elementor-icon-list-items elementor-inline-items">
                                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                                    <a href="https://www.instagram.com/sml.cargo/" target="_blank">
+                                                    <a href="https://www.instagram.com/sangkarabuanalogistic/" target="_blank">
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="fab fa-instagram"></i></span>
                                                         <span class="elementor-icon-list-text"></span>
