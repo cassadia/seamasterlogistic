@@ -59,7 +59,7 @@ Kalkulator | SANGKARA BUANA LOGISTICS
 															<div class="elementor-element elementor-element-353e40bc bendera elementor-widget elementor-widget-image" data-id="353e40bc" data-element_type="widget" id="cinabtn" data-widget_type="image.default">
 																<div class="elementor-widget-container">
 																	<div class="elementor-image">
-																		<img width="200" height="130" src="../wp-content/uploads/2021/12/New-Project-21.png" class="attachment-large size-large" alt="" loading="lazy" />
+																		<img width="200" height="130" src="../wp-content/uploads/2021/12/Group-2.png" class="attachment-large size-large" alt="" loading="lazy" />
 																	</div>
 																</div>
 															</div>
