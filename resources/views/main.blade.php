@@ -242,17 +242,17 @@ SANGKARA BUANA LOGISTICS
                                                 <div class="elementor-swiper">
                                                     <div class="elementor-main-swiper swiper-container">
                                                         <div class="swiper-wrapper">
-                                                            <div class="swiper-slide">
+                                                            <!-- <div class="swiper-slide">
                                                                 <a href="https://www.instagram.com/sangkarabuanalogistic/">
                                                                     <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2022/03/Proyek-Baru113-1-1-1.png)"></div>
                                                                 </a>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="swiper-slide">
                                                                 <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/Proyek-Baru115.png)"></div>
                                                             </div>
-                                                            <div class="swiper-slide">
+                                                            <!-- <div class="swiper-slide">
                                                                 <div class="elementor-carousel-image" style="background-image: url(wp-content/uploads/2021/12/Proyek-Baru118.png)"></div>
-                                                            </div>
+                                                            </div> -->
                                                         </div>
                                                         <div class="swiper-pagination"></div>
                                                         <div class="elementor-swiper-button elementor-swiper-button-prev">
@@ -348,12 +348,12 @@ SANGKARA BUANA LOGISTICS
                                     <div class="elementor-widget-wrap">
                                         <div class="elementor-element elementor-element-71d23571 animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="71d23571" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h2 class="elementor-heading-title elementor-size-default">Whats Our Beloved</h2>
+                                                <h2 class="elementor-heading-title elementor-size-default">Our Instagram</h2>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-38536286 animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="38536286" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h2 class="elementor-heading-title elementor-size-default">Customer Says</h2>
+                                                <h2 class="elementor-heading-title elementor-size-default">Our Feed</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -374,32 +374,32 @@ SANGKARA BUANA LOGISTICS
                                                 <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
                                                     <div class="elementor-image-carousel swiper-wrapper">
                                                         <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru17.png" alt="Proyek-Baru17.png" /></figure>
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/07/Artboard1.png" alt="Artboard1.png" /></figure>
                                                         </div>
                                                         <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru16.png" alt="Proyek-Baru16.png" /></figure>
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/07/Artboard2.png" alt="Artboard2.png" /></figure>
                                                         </div>
                                                         <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru15.png" alt="Proyek-Baru15.png" /></figure>
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/07/Artboard3.png" alt="Artboard3.png" /></figure>
                                                         </div>
                                                         <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru14.png" alt="Proyek-Baru14.png" /></figure>
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/07/Artboard4.png" alt="Artboard4.png" /></figure>
                                                         </div>
                                                         <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru13.png" alt="Proyek-Baru13.png" /></figure>
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/07/Artboard5.png" alt="Artboard5.png" /></figure>
                                                         </div>
                                                         <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru12.png" alt="Proyek-Baru12.png" /></figure>
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/07/Artboard6.png" alt="Artboard6.png" /></figure>
                                                         </div>
                                                         <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru11.png" alt="Proyek-Baru11.png" /></figure>
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/07/Artboard7.png" alt="Artboard7.png" /></figure>
                                                         </div>
                                                         <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru10.png" alt="Proyek-Baru10.png" /></figure>
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/07/Artboard8.png" alt="Artboard8.png" /></figure>
                                                         </div>
-                                                        <div class="swiper-slide">
-                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2021/12/Proyek-Baru9.png" alt="Proyek-Baru9.png" /></figure>
-                                                        </div>
+                                                        <!-- <div class="swiper-slide">
+                                                            <figure class="swiper-slide-inner"><img class="swiper-slide-image" src="wp-content/uploads/2022/04/Artboard3.png" alt="Proyek-Baru9.png" /></figure>
+                                                        </div> -->
                                                     </div>
                                                     <div class="elementor-swiper-button elementor-swiper-button-prev">
                                                         <i aria-hidden="true" class="eicon-chevron-left"></i><span class="elementor-screen-only">Previous</span>

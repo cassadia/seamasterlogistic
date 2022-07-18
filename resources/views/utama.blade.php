@@ -688,10 +688,10 @@
                                         <div class="elementor-widget-container">
                                             <ul class="elementor-icon-list-items elementor-inline-items">
                                                 <li class="elementor-icon-list-item elementor-inline-item">
-                                                    <a href="mailto:sangkarabuanalogistic@gmail.com" target="_blank">
+                                                    <a href="mailto:cs@sangkarabuanalogistic.com" target="_blank">
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="far fa-envelope"></i></span>
-                                                        <span class="elementor-icon-list-text">sangkarabuanalogistic@gmail.com</span>
+                                                        <span class="elementor-icon-list-text">cs@sangkarabuanalogistic.com</span>
                                                     </a>
                                                 </li>
                                                 <li class="elementor-icon-list-item elementor-inline-item">
