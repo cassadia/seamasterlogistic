@@ -15,7 +15,7 @@ class MailController extends Controller
 
    // Mail::send(['text'=>'mail'], $data, function($message) {
    Mail::send('mail', $data, function($message) {
-      $message->to('dias.saiman@ag-it.com', 'Contact Support')->subject('Contact US');
+      $message->to('cs@sangkarabuanalogistic.com', 'Contact Support')->subject('Contact US');
       $message->from('noreply@sangkarabuanalogistic.com','contactsupport');
    });
 
