@@ -31,7 +31,7 @@ Cara Kerja | SANGKARA BUANA LOGISTICS
                                                 </div>
                                                 <div class="elementor-element elementor-element-cab949b animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="cab949b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Di bawah ini illustrasi cara kerja SANGKARA BUANA LOGISTICS</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Di bawah ini illustrasi cara kerja SANGKARA BUANA LOGISTIC</h2>
                                                     </div>
                                                 </div>
                                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-272b9901 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="272b9901" data-element_type="section">

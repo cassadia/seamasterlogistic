@@ -67,7 +67,7 @@ FAQ | SANGKARA BUANA LOGISTICS
 
                             <div class="htmega-accourdion-title">
                               <h2 data-toggle="htbcollapse" data-target="#htmega-collapse32460b6e" class="htb-collapsed htmega-items-hedding">03 Berapa lama waktu untuk Customer Service
-                                SML Cargo akan membalas pesan saya? <span class="accourdion-icon close-accourdion"><i aria-hidden="true" class="fas fa-minus-circle"></i></span><span class="accourdion-icon open-accourdion"><i aria-hidden="true" class="fas fa-plus"></i></span></h2>
+                                SBL akan membalas pesan saya? <span class="accourdion-icon close-accourdion"><i aria-hidden="true" class="fas fa-minus-circle"></i></span><span class="accourdion-icon open-accourdion"><i aria-hidden="true" class="fas fa-plus"></i></span></h2>
                             </div>
 
                             <div id="htmega-collapse32460b6e" class="htb-collapse " data-parent="#accordionExample2460b6e">
@@ -82,7 +82,7 @@ FAQ | SANGKARA BUANA LOGISTICS
                           <div class="single_accourdion htmega-icon-align-right">
 
                             <div class="htmega-accourdion-title">
-                              <h2 data-toggle="htbcollapse" data-target="#htmega-collapse42460b6e" class="htb-collapsed htmega-items-hedding">04 Apakah pajak akan ditanggung oleh SML
+                              <h2 data-toggle="htbcollapse" data-target="#htmega-collapse42460b6e" class="htb-collapsed htmega-items-hedding">04 Apakah pajak akan ditanggung oleh SBL
                                 (door to door service)? <span class="accourdion-icon close-accourdion"><i aria-hidden="true" class="fas fa-minus-circle"></i></span><span class="accourdion-icon open-accourdion"><i aria-hidden="true" class="fas fa-plus"></i></span></h2>
                             </div>
 
@@ -103,7 +103,7 @@ FAQ | SANGKARA BUANA LOGISTICS
 
                             <div id="htmega-collapse52460b6e" class="htb-collapse " data-parent="#accordionExample2460b6e">
                               <div class="accordion-content">
-                                <p>SML logistic dibantu rekan2 cargo local untuk pengiriman diluar daerah Jabodetabek
+                                <p>SBL dibantu rekan2 cargo local untuk pengiriman diluar daerah Jabodetabek
                                 </p>
                               </div>
                             </div>
@@ -113,7 +113,7 @@ FAQ | SANGKARA BUANA LOGISTICS
                           <div class="single_accourdion htmega-icon-align-right">
 
                             <div class="htmega-accourdion-title">
-                              <h2 data-toggle="htbcollapse" data-target="#htmega-collapse62460b6e" class="htb-collapsed htmega-items-hedding">06 Bagaimana cara SML meng- handle complaint
+                              <h2 data-toggle="htbcollapse" data-target="#htmega-collapse62460b6e" class="htb-collapsed htmega-items-hedding">06 Bagaimana cara SBL meng- handle complaint
                                 atau keluhan dari customer? <span class="accourdion-icon close-accourdion"><i aria-hidden="true" class="fas fa-minus-circle"></i></span><span class="accourdion-icon open-accourdion"><i aria-hidden="true" class="fas fa-plus"></i></span></h2>
                             </div>
 
