@@ -9,12 +9,56 @@ Contact | SANGKARA BUANA LOGISTICS
 
 <head>
     <link rel='stylesheet' id='elementor-post-624-css' href="{!! asset('wp-content/uploads/elementor/css/post-62458c9.css?ver=1651048197') !!}" type='text/css' media='all' />
+    <style>
+        .custom-elementor-button {
+            border-radius: 20px 20px 20px 20px;
+            width: 100%;
+            font-family: "Poppins", Sans-serif;
+            font-size: 18px;
+            font-weight: 500;
+            text-transform: capitalize;
+            /* padding: 0px 0px 0px 0px; */
+        }
+        .custom-elementor-button[type="submit"] {
+            background-color: #1D69BA;
+            color: #ffffff;
+            border-color: #e7e7e7;
+        }
+        .custom-elementor-button[type="submit"]:hover {
+            color: #ffffff;
+        }
+
+        .alert {
+            padding: 20px;
+            background-color: #04AA6D;
+            color: white;
+        }
+        .closebtn {
+            margin-left: 15px;
+            color: white;
+            font-weight: bold;
+            float: right;
+            font-size: 22px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .closebtn:hover {
+            color: black;
+        }
+    </style>
 </head>
 
-
 <main id=" content" class="site-main post-624 page type-page status-publish hentry" role="main">
-
     <body onload="loaded();">
+
+        @if (session('status'))
+            <div class="alert" id="success-alert">
+                {{ session('status') }}
+            </div>
+        @endif
+
         <div class="page-content">
             <div data-elementor-type="wp-page" data-elementor-id="624" class="elementor elementor-624">
                 <div class="elementor-inner">
@@ -32,9 +76,11 @@ Contact | SANGKARA BUANA LOGISTICS
                                                 </div>
                                                 <div class="elementor-element elementor-element-16a77dc3 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="16a77dc3" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;25&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
                                                     <div class="elementor-widget-container">
-                                                        <form class="elementor-form" method="post" name="New Form">
-                                                            <input type="hidden" name="post_id" value="624" />
-                                                            <input type="hidden" name="form_id" value="16a77dc3" />
+                                                        <form method="POST" action="sendbasicemail">
+                                                            {{csrf_field()}}
+                                                        {{-- <form class="elementor-form"> --}}
+                                                            {{-- <input type="hidden" name="post_id" value="624" />
+                                                            <input type="hidden" name="form_id" value="16a77dc3" /> --}}
                                                             <input type="hidden" name="referer_title" value="Contact | SANGKARA BUANA LOGISTICS" />
 
                                                             <input type="hidden" name="queried_id" value="624" />
@@ -43,34 +89,38 @@ Contact | SANGKARA BUANA LOGISTICS
                                                                 <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
                                                                     <label for="form-field-name" class="elementor-field-label">
                                                                         Name </label>
-                                                                    <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual">
+                                                                    {{-- <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual"> --}}
+                                                                    <input size="1" type="text" name="nama" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual">
                                                                 </div>
                                                                 <div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
                                                                     <label for="form-field-email" class="elementor-field-label">
                                                                         No Whatsapp </label>
-                                                                    <input size="1" type="tel" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+                                                                    {{-- <input size="1" type="tel" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted."> --}}
+                                                                    <input size="1" type="tel" name="phone" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
 
                                                                 </div>
                                                                 <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
                                                                     <label for="form-field-email" class="elementor-field-label">
                                                                         Email </label>
-                                                                    <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" required="required" aria-required="true">
+                                                                    {{-- <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" required="required" aria-required="true"> --}}
+                                                                    <input size="1" type="email" name="email" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" required="required" aria-required="true">
                                                                 </div>
                                                                 <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
                                                                     <label for="form-field-message" class="elementor-field-label">
                                                                         Comment or Message </label>
-                                                                    <textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4"></textarea>
+                                                                    {{-- <textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4"></textarea> --}}
+                                                                    <textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="message" id="form-field-message" rows="4"></textarea>
                                                                 </div>
                                                                 <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-25 e-form__buttons">
-                                                                    <button type="submit" class="elementor-button elementor-size-sm">
+                                                                    <button type="submit" class="custom-elementor-button elementor-size-sm">
                                                                         <span>
-                                                                            <span class=" elementor-button-icon">
-                                                                            </span>
+                                                                            <span class="elementor-button-icon"></span>
                                                                             <span class="elementor-button-text">Kirim</span>
                                                                         </span>
                                                                     </button>
                                                                 </div>
                                                             </div>
+                                                        </form>
                                                         </form>
                                                     </div>
                                                 </div>
@@ -125,7 +175,43 @@ Contact | SANGKARA BUANA LOGISTICS
     <script>
         function loaded() {
             document.getElementById("target_contact").classList.add("elementor-item-active");
+
+            // setTimeout(function () {
+            //     // Closing the alert
+            //     $('.alert').alert('close');
+            // }, 2000);
+
+            // setTimeout(() => { alert('Hello') }, 1000)
+            // setTimeout(() => {
+            //     $('.alert').alert('close');
+            // }, 1000);
+
+            setTimeout(() => {
+                const cobaan = document.getElementById('success-alert');
+                cobaan.style.display = 'none';
+            }, 1000);
+
+            // $(document).ready(function() {
+                // window.setTimeout(function() {
+                //     $('.alert').alert('close');
+                // }, 1000);
+            // });
+
+            // window.setTimeout(function() {
+            //     $(".tutup").fadeTo(500, 0).slideUp(500, function(){
+            //         $(this).remove(); 
+            //     });
+            // }, 4000);
         }
+
+        // $(document).ready(function() {
+        //     window.setTimeout(function() {
+        //         $(".alert").fadeTo(500, 0).slideUp(500, function(){
+        //             $(this).remove(); 
+        //         });
+        //     }, 4000);
+        // });
+
     </script>
     <section id="comments" class="comments-area">
 

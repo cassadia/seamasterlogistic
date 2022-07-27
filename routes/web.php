@@ -45,3 +45,5 @@ Route::get('/hubkerjasama', 'SideMenuCotroller@menuHubKerjaSama');
 Route::get('/warehousing', 'SideMenuCotroller@menuWarehousing');
 Route::get('/trucking', 'SideMenuCotroller@menuTrucking');
 Route::get('/cekresi', 'SideMenuCotroller@menuCekResi');
+
+Route::post('sendbasicemail','MailController@basic_email');
